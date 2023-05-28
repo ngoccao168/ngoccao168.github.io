@@ -1,8 +1,7 @@
 ---
-title: History of the Alembic
+title: Đi thiền là đi đâu, làm gì?
 categories:
-- History
-- External sources
+- Phật giáo
 feature_text: |
   The History of the Alembic tool
 ---
