@@ -22,7 +22,9 @@ body {
 // Links.
 a {
   color: $linkColour;
-  text-decoration: none;
+  .underline-on-hover:hover {
+  		text-decoration: underline;
+	}
   transition: color .1s, background-color .1s;
 
   &:hover, &:active, &:focus {
