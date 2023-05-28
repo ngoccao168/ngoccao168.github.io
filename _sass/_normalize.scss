@@ -114,8 +114,8 @@ a:hover {
 
 abbr[title] {
   border-bottom: none; /* 1 */
-  text-decoration: underline; /* 2 */
-  text-decoration: underline dotted; /* 2 */
+  text-decoration: none; /* 2 */
+  text-decoration: none /* 2 */
 }
 
 /**
@@ -150,7 +150,7 @@ dfn {
  */
 
 h1 {
-  font-size: 2em;
+  font-size: 1.8em;
   margin: 0.67em 0;
 }
 
