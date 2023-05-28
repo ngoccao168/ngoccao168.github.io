@@ -8,7 +8,7 @@ $accentColour: #404040 !default;
 $headingColour: #404040 !default;
 $bodyColour: #404040 !default;
 $linkColour: #05bf85 !default;
-$hoverColour: #008000 !default;
+$hoverColour: #404040 !default;
 $focusColour: #fa407a !default;
 $captionColour: #a8adac !default;
 $white: #ffffff !default;
@@ -16,22 +16,22 @@ $white: #ffffff !default;
 // Typography
 $bodytype: (
   font-family: "Josefin Sans,sans-serif",
-  regular: 400,
-  bold: 700,
+  regular: 300,
+  bold: 500,
   italic: italic,
   cap-height: 0.75
 ) !default;
 
 $headingtype: (
   font-family: "Josefin Sans,sans-serif",
-  regular: 400,
-  bold: 700,
+  regular: 300,
+  bold: 500,
   cap-height: 0.75
 ) !default;
 
 $monospacetype: (
   font-family: "Josefin Sans,sans-serif",
-  regular: 400,
+  regular: 300,
   cap-height: 0.68
 ) !default;
 
