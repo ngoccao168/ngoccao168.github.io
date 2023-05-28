@@ -2,7 +2,7 @@
 $backgroundColour: #ffffff !default;
 $codeBackgroundColour: #fafafa !default;
 $featureBackgroundColour: #f9fafa !default;
-$accentColour: #05bf85 !default;
+$accentColour: #404040 !default;
 
 // Text colours
 $headingColour: #404040 !default;
@@ -23,14 +23,14 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
+  font-family: "Josefin Sans,sans-serif",
   regular: 400,
   bold: 700,
   cap-height: 0.75
 ) !default;
 
 $monospacetype: (
-  font-family: "Menlo, monospace",
+  font-family: "Josefin Sans,sans-serif",
   regular: 400,
   cap-height: 0.68
 ) !default;
